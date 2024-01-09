@@ -42,9 +42,9 @@ We use a simple DSGE model to simulate data and use the simulated data to estima
 
 We also extend our method to bayesian estimation, codes can be found in the folder: bayesian.
 
-![demand shock](./graph/demand shock.png)
+<img src="graph/demand shock.png" alt="demand shock" style="zoom:80%;" />
 
-![supply shock](./graph/supply shock.png)
+<img src="./graph/supply shock.png" alt="supply shock" style="zoom:80%;" />
 
 
 
