@@ -17,7 +17,7 @@ In order to identify the demand and supply shocks, according to the AD-AS model,
 
 The identification strategy described as follows: Decompose $A=CD$ where $C$ is the Cholesky decomposition of $\Sigma$ and $D=[d_D, d_S, ...]$ is an orthogonal matrix where:
 
-$d_D=\mathop{\arg\max}_{d}\,\{\delta^{*}e_1Cd+(1-\delta^{*})e_2Cd,\;\;\text{subject to}\;\;d^{'}d=1\}$
+$d_D=\mathop{\arg\max}_{d}\,\{\delta^{*}e_1Cd+(1-\delta^{*})e_2Cd,\,\text{subject to}\,d^{'}d=1\}$
 
 and 
 
