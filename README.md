@@ -13,17 +13,7 @@ The empirical results indicate that GDP is less persistent than inflation in res
 
 In order to identify the demand and supply shocks, according to the AD-AS model, we have the following information at hand for identification: the demand shock, $\epsilon^D_t$, imposes a positive impact on both output, $Y_t$, and inflation, $\pi_t$, and the supply shock, $\epsilon^S_t$, imposes a positive impact on the output, $Y_t$, and a negative impact on the inflation, $\pi_t$.
 
-
-
-The identification strategy described as follows: Decompose $A=CD$ where $C$ is the Cholesky decomposition of $\Sigma$ and $D=[d_D, d_S, ...]$ is an orthogonal matrix where:
-
-$$d_D=\mathop{\arg\max}_{d}\,\{\delta^{*}e_1Cd+(1-\delta^{*})e_2Cd,\,\text{subject to}\,d^{'}d=1\}$$
-
-and 
-
-$d_S=\mathop{\arg\max}_{d}\,\{\delta^{*}e_1Cd-(1-\delta^{*})e_2Cd,\;\;\text{subject to}\;\;d^{'}d=1\}$
-
-where $\delta^{*}\in(0,1)$ such that $d_D^{'}d_S=0$
+The response of output (inflation) to demand shocks should be increasing functions of the size of the demand shock and the response of output (inflation) to the supply shock $\epsilon^S_t$ should be an increasing (a decreasing)  function of the size of the supply shock.
 
 
 
